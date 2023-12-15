@@ -1,0 +1,28 @@
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+}
+.content-container {
+  display: flex;
+}
+.logo {
+  height: 20px;
+  width: 20px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.domain-url {
+  color: #64748b;
+  padding-left: 5px;
+}
+.delete {
+  height: 30px;
+  width: 20px;
+  cursor: pointer;
+}
+.button {
+  background-color: transparent;
+  border: none;
+}
